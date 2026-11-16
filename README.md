@@ -28,7 +28,7 @@ L'interfaccia offre italiano, inglese, francese, tedesco, spagnolo e cinese semp
 
 Posiziona la telecamera in modo stabile sopra la zona del traguardo, con luce uniforme. Scegli **Nuova gara**, assegna un nome e segui i passaggi per telecamera, pista e macchine. Registra un'auto alla volta e controlla il risultato prima di iniziare.
 
-Le istruzioni dettagliate saranno raccolte nella [Wiki](https://github.com/rovi92/Race-Turbo-Racing-Releases/wiki), se disponibile.
+Consulta le istruzioni dettagliate nella [Wiki](https://github.com/rovi92/Race-Turbo-Racing-Releases/wiki).
 
 ## Problemi e suggerimenti
 
