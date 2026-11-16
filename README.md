@@ -1,14 +1,32 @@
-# 🏁 Race Turbo Racing
+# 🏁 LapLens
+
+**Camera-based lap timing for miniature racing.**
+
+LapLens is a Windows application for setting up miniature races, detecting cars at the finish line and following lap times and standings. This public repository contains beta downloads and updates; the source project is maintained separately.
+
+### Download and get started
+
+Download the current [0.0.205 beta release](https://github.com/rovi92/Race-Turbo-Racing-Releases/releases/tag/v0.0.205) and choose the Windows x64 installer under **Assets**. The installer includes the .NET runtime. It is not Authenticode-signed, so Windows may show an unknown-publisher warning. Version 0.0.205 predates the rename and still displays the previous name.
+
+Connect a Windows-compatible camera, select **New race**, and follow the camera, track and car registration steps. You can set up practice, qualifying and up to two races. Use the [Wiki](https://github.com/rovi92/Race-Turbo-Racing-Releases/wiki) for the current Italian-language guide and [report an issue](https://github.com/rovi92/Race-Turbo-Racing-Releases/issues) with your app version, camera and steps to reproduce.
+
+> **Beta:** detection depends on lighting, camera, track and car speed. Test your setup before a race.
+
+---
+
+## Italiano
 
 **Organizza una giornata di corse per macchinine e segui giri, tempi e classifiche con una telecamera.**
 
-Race Turbo Racing è un'app per Windows che osserva la zona del traguardo, rileva le macchine e confronta il loro aspetto con i profili registrati. Questo repository pubblico ospita le versioni beta e gli aggiornamenti; il progetto sorgente è separato.
+LapLens è un'app per Windows che osserva la zona del traguardo, rileva le macchine e confronta il loro aspetto con i profili registrati. Questo repository pubblico ospita le versioni beta e gli aggiornamenti; il progetto sorgente è separato.
 
 > **Beta:** il riconoscimento dipende dalla telecamera, dalla luce, dalla pista e dalla velocità delle macchine. Verifica il funzionamento sul tuo circuito prima di una gara.
 
 ## Scarica
 
 La versione di prova attuale è la **[0.0.205 beta](https://github.com/rovi92/Race-Turbo-Racing-Releases/releases/tag/v0.0.205)**. Nella pagina della release scarica l'installer Windows x64 dagli allegati.
+
+La 0.0.205 è stata pubblicata prima del cambio di nome: l'installer e l'app di quella versione mostrano ancora il nome precedente. Il nome LapLens apparirà in una versione successiva.
 
 - Puoi scegliere la cartella di installazione e aggiungere facoltativamente un'icona sul desktop.
 - Il runtime .NET è incluso. Occorrono Windows a 64 bit e una telecamera compatibile con Windows.
