@@ -12,6 +12,8 @@ Connect a Windows-compatible camera, select **New race**, and follow the camera,
 
 > **Beta:** detection depends on lighting, camera, track and car speed. Test your setup before a race.
 
+**Reference requirements:** 64-bit Windows; a Full HD 1080p camera; at least 30 FPS actually processed by the app; and a stable mount approximately 30 cm above the track. LapLens is designed for 1:76 and 1:64 cars; other scales are experimental. Minimum CPU, RAM and GPU specifications are not yet established. See [camera and setup requirements](https://github.com/rovi92/Race-Turbo-Racing-Releases/wiki/Installation).
+
 ---
 
 ## Italiano
@@ -21,6 +23,8 @@ Connect a Windows-compatible camera, select **New race**, and follow the camera,
 LapLens è un'app per Windows che osserva la zona del traguardo, rileva le macchine e confronta il loro aspetto con i profili registrati. Questo repository pubblico ospita le versioni beta e gli aggiornamenti; il progetto sorgente è separato.
 
 > **Beta:** il riconoscimento dipende dalla telecamera, dalla luce, dalla pista e dalla velocità delle macchine. Verifica il funzionamento sul tuo circuito prima di una gara.
+
+**Requisiti di riferimento:** Windows a 64 bit; telecamera Full HD 1080p; almeno 30 FPS effettivamente elaborati dall'app; supporto stabile a circa 30 cm dalla pista. LapLens è pensato per macchine in scala 1:76 e 1:64; altre scale sono sperimentali. I requisiti minimi di CPU, RAM e GPU non sono ancora stabiliti. Consulta i [requisiti e la guida di installazione](https://github.com/rovi92/Race-Turbo-Racing-Releases/wiki/Installazione-e-primo-avvio).
 
 ## Scarica
 
